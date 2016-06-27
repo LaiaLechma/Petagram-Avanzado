@@ -8,6 +8,7 @@ public class Contacto {
     private String urlfoto;
     private int likes = 0;
 
+
     public Contacto(String urlfoto, String nombreCompleto, String telefono, String email, int likes) {
         this.urlfoto = urlfoto;
         this.nombreCompleto = nombreCompleto;
