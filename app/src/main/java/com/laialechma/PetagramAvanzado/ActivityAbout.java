@@ -13,7 +13,7 @@ import com.laialechma.recyclerviewfragments.R;
  * Created by Laia Lechma on 26/06/2016.
  */
 public class ActivityAbout extends AppCompatActivity {
-    ImageView star; 
+    ImageView star;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

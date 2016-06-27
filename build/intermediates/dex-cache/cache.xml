@@ -6,140 +6,140 @@
         jumboMode="true"
         revision="23.0.2"
         sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
-        <dex dex="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_a96cab1d2efa20ef8295140fc425b25bec79a173.jar" />
-    </item>
-    <item
-        jar="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
-        <dex dex="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_a0de26d2ca714bc619241956b82957b7ce2dcba5.jar" />
-    </item>
-    <item
-        jar="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
-        <dex dex="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_724331a97122c5a87449fdb4578504ae027f7caf.jar" />
+        <dex dex="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_a96cab1d2efa20ef8295140fc425b25bec79a173.jar" />
     </item>
     <item
         jar="C:\Users\Laia Lechma\.gradle\caches\modules-2\files-2.1\com.sun.mail\android-mail\1.5.5\53a2f927b235acb565dbe9314ececfb7e6d43020\android-mail-1.5.5.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="53a2f927b235acb565dbe9314ececfb7e6d43020">
-        <dex dex="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\pre-dexed\debug\android-mail-1.5.5_db2bbae1a11202a98c418c92a8819d561bb09660.jar" />
+        <dex dex="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\pre-dexed\debug\android-mail-1.5.5_db2bbae1a11202a98c418c92a8819d561bb09660.jar" />
     </item>
     <item
         jar="C:\Users\Laia Lechma\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
-        <dex dex="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\pre-dexed\debug\okio-1.8.0_334be5b943c1bf8a2109a537e93f61733e6d92c2.jar" />
+        <dex dex="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\pre-dexed\debug\okio-1.8.0_334be5b943c1bf8a2109a537e93f61733e6d92c2.jar" />
     </item>
     <item
-        jar="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jar="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
-        <dex dex="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.3.0_ae3f995d968304668a3ac2bcaa09f78b1e6f4533.jar" />
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_34605414273d24692a0c76cebb8203286aa87805.jar" />
     </item>
     <item
-        jar="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jar="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_ddd32c49a8f1f0526331a0b4ae4ae2594ad69de9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fc6f3659eaf6d42a557cf21b1fbd8ab9e2508ce5">
+        <dex dex="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\pre-dexed\debug\instant-run_db6c7de0040a4cb6e049a40bcb2f056f6047b5a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_f823bfbff45ad8825a4c94355d7d3161a5ff2616.jar" />
+    </item>
+    <item
+        jar="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\exploded-aar\com.mikhaellopez\circularimageview\3.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\pre-dexed\debug\com.mikhaellopez-circularimageview-3.0.2_2d26706a7ff7adf630d8545b9429458c63688578.jar" />
+    </item>
+    <item
+        jar="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
-        <dex dex="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_5de64ec007c0ef3a3506630635985bcb2ded5f89.jar" />
+        <dex dex="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_7aea97e56dcd0211d325239fc40714878dee3551.jar" />
     </item>
     <item
         jar="C:\Users\Laia Lechma\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_8a4a7fbdb530079e49d60b9563f63972e292ca5a.jar" />
+        <dex dex="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_8a4a7fbdb530079e49d60b9563f63972e292ca5a.jar" />
     </item>
     <item
-        jar="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="f24d482aa9c291b4f6763afa3f7149a6eca2d6a3">
-        <dex dex="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_947e8bfebfbf7757bfa867b609251e0618803afa.jar" />
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_fdaa0c7ca040aeb82503f495151924e6f99b0711.jar" />
     </item>
     <item
-        jar="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jar="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="debf30ce0a7560396b6235edef77e447006454c2">
-        <dex dex="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_0b4c9fe3ff3aed6f44a28df26e858e43f23ac86a.jar" />
+        sha1="6531e8082aebfaec480df292f279f9630e2775fc">
+        <dex dex="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_d3677e7b7c4cef5bf212bef2403a6f60508daabb.jar" />
     </item>
     <item
         jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
-        <dex dex="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_a4ea006b60a31b1ef1f45205b3aa598eb0850127.jar" />
-    </item>
-    <item
-        jar="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
-        <dex dex="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.3.0_1336c05f1f54bcfb2728c6c141b4de3c698dea47.jar" />
-    </item>
-    <item
-        jar="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="4de99bc9df2a93cd186eb67df9831d118eb7a816">
-        <dex dex="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\pre-dexed\debug\instant-run_7ea7aaa07973d6956b1b400e8e9e701a30e3b4d1.jar" />
+        <dex dex="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_a4ea006b60a31b1ef1f45205b3aa598eb0850127.jar" />
     </item>
     <item
         jar="C:\Users\Laia Lechma\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
-        <dex dex="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\pre-dexed\debug\gson-2.7_1c879831db3b82d1c3d03376cd9206ff308c8225.jar" />
+        <dex dex="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\pre-dexed\debug\gson-2.7_1c879831db3b82d1c3d03376cd9206ff308c8225.jar" />
     </item>
     <item
         jar="C:\Users\Laia Lechma\.gradle\caches\modules-2\files-2.1\com.sun.mail\android-activation\1.5.5\5442d5e05808145434b750c9f8a0c3f537383c5a\android-activation-1.5.5.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="5442d5e05808145434b750c9f8a0c3f537383c5a">
-        <dex dex="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\pre-dexed\debug\android-activation-1.5.5_2ce3cd1530c4122e7fe7fdff4082b5e9bc2fdbfb.jar" />
-    </item>
-    <item
-        jar="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
-        <dex dex="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_30d4e992da006ffd7287454fc6aec863190a7fdb.jar" />
+        <dex dex="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\pre-dexed\debug\android-activation-1.5.5_2ce3cd1530c4122e7fe7fdff4082b5e9bc2fdbfb.jar" />
     </item>
     <item
         jar="C:\Users\Laia Lechma\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
-        <dex dex="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_de341763b17d5c6453f2d3cb105c44aa5e680505.jar" />
+        <dex dex="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_de341763b17d5c6453f2d3cb105c44aa5e680505.jar" />
     </item>
     <item
-        jar="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\exploded-aar\com.mikhaellopez\circularimageview\3.0.2\jars\classes.jar"
+        jar="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
-        <dex dex="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\pre-dexed\debug\com.mikhaellopez-circularimageview-3.0.2_3d06f8094dc6ea2fa6152106a33b6e758b128392.jar" />
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.3.0_094ea2923912dc88fa91ca83522bca89b1a69d63.jar" />
     </item>
     <item
-        jar="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jar="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
-        <dex dex="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_f9f19d6123f0b006efca7544396f9129c44bf309.jar" />
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_13a9b97c7d72fae2abc443f5e127c544a8d1e851.jar" />
     </item>
     <item
         jar="C:\Users\Laia Lechma\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
-        <dex dex="C:\Users\Laia Lechma\Downloads\AplicacionContactos-master\AplicacionContactos-master\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_3ed6ce887a498560ad457d10140a48e3f16949d0.jar" />
+        <dex dex="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_3ed6ce887a498560ad457d10140a48e3f16949d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\Laia Lechma\AndroidStudioProjects\Petagram Avanzado\Petagram-Avanzado\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.3.0_dda2ddf0b9881e5f913086161b8f74357f38d193.jar" />
     </item>
 
 </items>
