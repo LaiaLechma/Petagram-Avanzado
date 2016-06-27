@@ -87,6 +87,10 @@ public class MainActivity extends AppCompatActivity {
                 Intent i = new Intent(this, ActivityContacto.class);
                 startActivity(i);
                 break;
+            case R.id.mCuenta:
+                Intent intent1 = new Intent(this, ActivityCuenta.class);
+                startActivity(intent1);
+                break;
         }
 
         return super.onOptionsItemSelected(item);
