@@ -18,9 +18,7 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
-/**
- * Created by anahisalgado on 21/04/16.
- */
+
 public class RecyclerViewFragmentPresenter implements IRecylerViewFragmentPresenter {
 
     private IRecyclerViewFragmentView iRecyclerViewFragmentView;

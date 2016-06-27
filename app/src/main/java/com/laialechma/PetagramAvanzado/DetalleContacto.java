@@ -8,9 +8,7 @@ import android.widget.TextView;
 import com.laialechma.recyclerviewfragments.R;
 import com.squareup.picasso.Picasso;
 
-/**
- * Created by anahisalgado on 19/04/16.
- */
+
 public class DetalleContacto extends AppCompatActivity {
     private static final String KEY_EXTRA_URL = "url";
     private static final String KEY_EXTRA_LIKES = "like";

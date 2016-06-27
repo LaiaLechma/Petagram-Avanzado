@@ -11,9 +11,7 @@ import com.laialechma.PetagramAvanzado.model.Contacto;
 
 import java.util.ArrayList;
 
-/**
- * Created by anahisalgado on 04/05/16.
- */
+
 public class BaseDatos extends SQLiteOpenHelper {
 
     private Context context;

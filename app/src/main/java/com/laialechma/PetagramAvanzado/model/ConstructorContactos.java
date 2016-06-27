@@ -11,9 +11,7 @@ import com.laialechma.recyclerviewfragments.R;
 import java.util.ArrayList;
 
 
-/**
- * Created by anahisalgado on 21/04/16.
- */
+
 public class ConstructorContactos{
 
     private static final int LIKE = 1;

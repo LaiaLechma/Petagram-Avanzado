@@ -18,9 +18,7 @@ import com.laialechma.PetagramAvanzado.presentador.RecyclerViewFragmentPresenter
 
 import java.util.ArrayList;
 
-/**
- * Created by anahisalgado on 20/04/16.
- */
+
 public class RecyclerViewFragment extends Fragment implements IRecyclerViewFragmentView {
     private ArrayList<Contacto> contactos;
     private RecyclerView rvContactos;

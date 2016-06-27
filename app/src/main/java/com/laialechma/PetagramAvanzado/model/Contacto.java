@@ -1,8 +1,6 @@
 package com.laialechma.PetagramAvanzado.model;
 
-/**
- * Created by anahisalgado on 19/04/16.
- */
+
 public class Contacto {
 
     private String id;
