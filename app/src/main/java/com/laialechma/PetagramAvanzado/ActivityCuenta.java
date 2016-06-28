@@ -44,14 +44,14 @@ public class ActivityCuenta extends AppCompatActivity {
         if(parametros != null) {
             agregarusuario.setText(parametros.getString("Usuario Instagram"));
         }
-
-        /*Button botonGuardar = (Button) findViewById(R.id.botonGuardarCuenta);
+/*
+        Button botonGuardar = (Button) findViewById(R.id.botonGuardarCuenta);
         botonGuardar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
 
 
-                agregarname = (TextInputEditText) findViewById(R.id.txtname);
+                agregarusuario = (TextInputEditText) findViewById(R.id.txtname);
                 String name = agregarname.getText().toString();
 
 
