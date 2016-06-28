@@ -40,4 +40,14 @@ public class Seguidor {
     public void setProfile_picture(String profile_picture) {
         this.profile_picture = profile_picture;
     }
+
+    public Seguidor(String id, String fullName, String userName, String profile_picture) {
+        this.id = id;
+        this.fullName = fullName;
+        this.userName = userName;
+        this.profile_picture = profile_picture;
+    }
+
+    public Seguidor() {
+    }
 }
