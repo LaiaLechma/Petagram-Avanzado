@@ -4,6 +4,7 @@ import android.content.Context;
 import android.util.Log;
 import android.widget.Toast;
 
+import com.laialechma.PetagramAvanzado.ActivityCuenta;
 import com.laialechma.PetagramAvanzado.model.ConstructorContactos;
 import com.laialechma.PetagramAvanzado.model.Contacto;
 import com.laialechma.PetagramAvanzado.restApi.EndpointsApi;
@@ -45,24 +46,46 @@ public class RecyclerViewFragmentPresenter implements IRecylerViewFragmentPresen
         RestApiAdapter restApiAdapter = new RestApiAdapter();
         Gson gsonMediaRecent = restApiAdapter.construyeGsonDeserializadorMediaRecent();
         EndpointsApi endpointsApi = restApiAdapter.establecerConexionRestApiInstagram(gsonMediaRecent);
-        Call<ContactoResponse> contactoResponseCall = endpointsApi.getRecentMedia();
 
-        contactoResponseCall.enqueue(new Callback<ContactoResponse>() {
-            @Override
-            public void onResponse(Call<ContactoResponse> call, Response<ContactoResponse> response) {
-                ContactoResponse contactoResponse = response.body();
-                contactos = contactoResponse.getContactos();
-                mostrarContactosRV();
+        if (ActivityCuenta.usuarioActual == "self") {
+            Call<ContactoResponse> contactoResponseCall = endpointsApi.getRecentMedia();
+            contactoResponseCall.enqueue(new Callback<ContactoResponse>() {
+                @Override
+                public void onResponse(Call<ContactoResponse> call, Response<ContactoResponse> response) {
+                    ContactoResponse contactoResponse = response.body();
+                    contactos = contactoResponse.getContactos();
+                    mostrarContactosRV();
+                }
+
+                @Override
+                public void onFailure(Call<ContactoResponse> call, Throwable t) {
+                    Toast.makeText(context, "Error de conexión", Toast.LENGTH_SHORT).show();
+                    Log.e("Error de conexión", t.toString());
+                }
+            });
+
+        }
+
+            if (ActivityCuenta.usuarioActual == "appsrsanchezcobian") {
+                Call<ContactoResponse> contactoResponseCall = endpointsApi.getRecentMedia();
+                contactoResponseCall.enqueue(new Callback<ContactoResponse>() {
+                    @Override
+                    public void onResponse(Call<ContactoResponse> call, Response<ContactoResponse> response) {
+                        ContactoResponse contactoResponse = response.body();
+                        contactos = contactoResponse.getContactos();
+                        mostrarContactosRV();
+                    }
+
+                    @Override
+                    public void onFailure(Call<ContactoResponse> call, Throwable t) {
+                        Toast.makeText(context, "Error de conexión", Toast.LENGTH_SHORT).show();
+                        Log.e("Error de conexión", t.toString());
+                    }
+                });
+
+
             }
-
-            @Override
-            public void onFailure(Call<ContactoResponse> call, Throwable t) {
-                Toast.makeText(context, "Error de conexión", Toast.LENGTH_SHORT).show();
-                Log.e("Error de conexión", t.toString());
-            }
-        });
-    }
-
+        }
 
     @Override
     public void mostrarContactosRV() {
